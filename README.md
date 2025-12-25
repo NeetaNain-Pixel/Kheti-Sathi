@@ -1,4 +1,4 @@
-# $KHETI-SATHI$- Real-field Image Plant Disease Dataset
+# <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Mnit_logo.png" /> \# $KHETI-SATHI$- Real-field Image Plant Disease Dataset
 
 **Contributors:** Dr. Neeta Nain, Sagar Mal Mitharwal and Dr.  \
 **Institute:** Malaviya National Institute of Technology Jaipur \
