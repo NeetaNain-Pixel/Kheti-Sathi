@@ -2,16 +2,18 @@
 
 **Contributors:** Dr. Neeta Nain, Sagar Mal Mitharwal and Dr. Pratibha Singh 
 **Institute:** Malaviya National Institute of Technology Jaipur 
-
-<img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/PHOTO-kheti.png" />
- 
-
+**Published:** December 2025
 **Crops: Citrus** Sweet Orange, Thai Lemon, Kagzi Lemon
 
 **Diseases:** Greening, Anthracnose, Black Spot, Kenkar, **novel annotations:** Nutrient Deficiency, and Mold.
 
 **Expert Ground-truth** annotations, includ.ing soil health, humidity, nutrient deficiency, and pathological reports.
 **Validated:** by the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
+
+
+<img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/PHOTO-kheti.png" />
+ 
+
 
 Developed the **largest**, and **first real-field image (India)** plant disease dataset comprising **3,500** images of **Citrus**.
 
