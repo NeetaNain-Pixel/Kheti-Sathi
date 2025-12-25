@@ -2,8 +2,8 @@
 
 **Contributors:** Dr. Neeta Nain \
 **Research Scholars:** Sagar Mal Mitharwal and Anand Kumar Jain\
-**Institute:** Malaviya National Institute of Technology Jaipur 
-**Domain Expert:** Dr. Pratibha Singh, RARI,Durgapura \ 
+**Institute:** Malaviya National Institute of Technology Jaipur \
+**Domain Expert:** Dr.Pratibha Singh, RARI,Durgapura 
 
 **Published:** December 2025
 **Version: 1.0**
@@ -12,7 +12,7 @@
 **Diseases:** Greening (Huanglongbing), Anthracnose, Black Spot, Kenkar, **novel annotations:** Nutrient Deficiency, and Mold.
 
 **Expert Ground-truth** annotations, includ.ing soil health, humidity, nutrient deficiency, and pathological reports.
-**Validated:** by the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
+**Validated:** by Dr.Pratibha Singh, at the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
 
 <img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/PHOTO-kheti.png" />
  
