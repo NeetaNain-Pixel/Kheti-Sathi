@@ -10,11 +10,8 @@
 **Expert Ground-truth** annotations, includ.ing soil health, humidity, nutrient deficiency, and pathological reports.
 **Validated:** by the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
 
-
 <img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/PHOTO-kheti.png" />
  
-
-
 Developed the **largest**, and **first real-field image (India)** plant disease dataset comprising **3,500** images of **Citrus**.
 
 **Introduction**
@@ -29,4 +26,4 @@ Developed the **largest**, and **first real-field image (India)** plant disease 
 
 5. All images were acquired in the Durgapura region, a tropical agricultural zone in Jaipur, Rajasthan, under the supervision of Dr. Pratibha Singh, Junior Soil Scientist, affiliated with the, Rajasthan Agriculture Research Institute (RARI), Jaipur.
 
-5. Manual annotation of all images was performed by the Research scholars: Sagar Mal Mitharwal and Anand Kumar Jain, under the supervision of domain expert Dr. Pratibha Singh to ensure accurate class labeling. The dataset includes 150 fruit images categorized into Black Spot, Canker, Greening, Scab, and healthy classes, and 609 leaf images categorized into Black Spot, Canker, Greening, Melanose, and healthy classes.
+5. Manual annotation of all images was performed by the Research scholars: Sagar Mal Mitharwal and Anand Kumar Jain, under the supervision of domain expert Dr. Pratibha Singh to ensure accurate class labeling. The dataset includes $600$ fruit images categorized into Black Spot, Canker, Greening (Huanglongbing) and healthy class ($1015$ images), and $450$ Anthracnose and $430$ Mold images caused by insect damage. Approximately $3200$ leaf images categorized into Black Spot, Canker, Greening, Dieback, Mold, and healthy classes.
