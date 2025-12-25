@@ -1,6 +1,6 @@
 # <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Mnit_logo.png" /> # $KHETI-SATHI$- Real-field Image Plant Disease Dataset <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-Sathi-logo.png" />
 
-**Contributors:** Dr. Neeta Nain, Sagar Mal Mitharwal and Dr.  
+**Contributors:** Dr. Neeta Nain, Sagar Mal Mitharwal and Dr. Pratibha Singh 
 **Institute:** Malaviya National Institute of Technology Jaipur 
 
 <img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/master/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi//blob/master/PHOTO-kheti.png" />
