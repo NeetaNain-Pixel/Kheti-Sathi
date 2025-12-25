@@ -5,8 +5,8 @@
 **Institute:** Malaviya National Institute of Technology Jaipur \
 **Domain Expert:** Dr.Pratibha Singh, RARI,Durgapura 
 
-**Published:** December 2025
-**Version: 1.0**
+**Published:** December 2025\
+**Version: 1.0**\
 **Crops: Citrus** Sweet Orange, Thai Lemon, Kagzi Lemon
 
 **Diseases:** Greening (Huanglongbing), Anthracnose, Black Spot, Kenkar, **novel annotations:** Nutrient Deficiency, and Mold.
