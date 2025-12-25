@@ -1,4 +1,4 @@
-# <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Mnit_logo.png" /> # $KHETI-SATHI$- Field Image Plant Disease Dataset <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-Sathi-logo.png" />
+# <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Mnit_logo.png" /> $KHETI-SATHI$- Field Image Plant Disease Dataset <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-Sathi-logo.png" />
 
 **Contributors:** Dr. Neeta Nain \
 **Research Scholars:** Sagar Mal Mitharwal and Anand Kumar Jain\
