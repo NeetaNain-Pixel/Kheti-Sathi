@@ -3,7 +3,7 @@
 **Contributors:** Dr. Neeta Nain, Sagar Mal Mitharwal and Dr. Pratibha Singh 
 **Institute:** Malaviya National Institute of Technology Jaipur 
 
-<img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/master/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi//blob/master/PHOTO-kheti.png" />
+<img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-sathi.png" /><img width="500" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/PHOTO-kheti.png" />
  
 
 **Crops: Citrus** Sweet Orange, Thai Lemon, Kagzi Lemon
