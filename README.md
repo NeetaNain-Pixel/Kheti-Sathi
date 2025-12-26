@@ -9,7 +9,7 @@
 **Version: 1.0**\
 **Crops: Citrus** Sweet Orange, Thai Lemon, Kagzi Lemon
 
-**Diseases:** Scab, Dieback, Greening (Huanglongbing), Black Spot, Canker, **novel annotations:** Nutrient Deficiency, and Mold, Where Anthracnose,and Mold are subclass of insect damage.
+**Diseases:** Scab, Dieback, Greening (Huanglongbing), Black Spot, Canker, **novel annotations:** Nutrient Deficiency, and Mold. Where Anthracnose, and Mold are subclass of insect damage.
 
 **Expert Ground-truth** annotations, includ.ing soil health, humidity, nutrient deficiency, and pathological reports.
 **Validated:** by Dr.Pratibha Singh, at the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
