@@ -1,7 +1,7 @@
 # <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Mnit_logo.png" /> $KHETI-SATHI$- Field Image Plant Disease Dataset <img width="50" src="https://github.com/NeetaNain-Pixel/Kheti-Sathi/blob/main/Kheti-Sathi-logo.png" />
 
 **Contributors:** Dr. Neeta Nain \
-**Research Scholars:** Sagar Mal Mitharwal and Anand Kumar Jain\
+**Research Scholars:** Sagar Mal Nitharwal and Anand Kumar Jain\
 **Institute:** Malaviya National Institute of Technology Jaipur \
 **Domain Expert:** Dr.Pratibha Singh, Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
 
@@ -9,7 +9,7 @@
 **Version: 1.0**\
 **Crops: Citrus** Sweet Orange, Thai Lemon, Kagzi Lemon
 
-**Diseases:** Greening (Huanglongbing), Anthracnose, Black Spot, Kenkar, **novel annotations:** Nutrient Deficiency, and Mold.
+**Diseases:** Scab, Dieback, Greening (Huanglongbing), Black Spot, Canker, **novel annotations:** Nutrient Deficiency, and Mold, Where Anthracnose,and Mold are subclass of insect damage.
 
 **Expert Ground-truth** annotations, includ.ing soil health, humidity, nutrient deficiency, and pathological reports.
 **Validated:** by Dr.Pratibha Singh, at the Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
