@@ -3,7 +3,7 @@
 **Contributors:** Dr. Neeta Nain \
 **Research Scholars:** Sagar Mal Nitharwal and Anand Kumar Jain\
 **Institute:** Malaviya National Institute of Technology Jaipur \
-**Domain Expert:** Dr.Pratibha Singh, Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.
+**Domain Expert:** Dr.Pratibha Singh, Rajasthan Agriculture Research Institute **(RARI)**, Durgapura, Jaipur.  
 
 **Published:** December 2025\
 **Version: 1.0**\
